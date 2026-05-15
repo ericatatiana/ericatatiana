@@ -1,96 +1,90 @@
-# 👩‍💻 Olá, eu sou a Erica Tatiana
+#  Olá, eu sou a Erica Tatiana
 
-Bem-vindo(a) ao meu espaço no GitHub 💙
+![Profile Views](https://komarev.com/ghpvc/?username=ericatatiana&color=blueviolet&style=flat-square)
 
-Este perfil representa mais do que apenas código — representa a minha **jornada de evolução, aprendizagem e paixão pela tecnologia**.
+💙 Bem-vindo(a) ao meu universo no GitHub
 
----
-
-## 🚀 A minha jornada
-
-Eu já tinha uma conta no GitHub, mas durante muito tempo não cuidei dela como deveria.
-
-Agora tudo mudou.
-
-Decidi assumir um compromisso sério comigo mesma:
-👉 aprender  
-👉 evoluir  
-👉 criar projetos  
-👉 e fazer parte da comunidade de programadores
-
-Hoje estou muito motivada em fazer parte do mundo dos desenvolvedores e crescer a cada dia nesta jornada 💻✨
+Aqui não é só código — é a minha jornada de evolução, disciplina e paixão por tecnologia.
 
 ---
 
-## 💡 Sobre mim
+##  Quem sou eu
 
-Entrei neste curso praticamente “de paraquedas”.
-
-No início, a minha intenção era seguir Engenharia Química.
-
-Mas a programação entrou na minha vida de uma forma inesperada…  
-e eu acabei por me apaixonar completamente por ela.
-
-Hoje, não quero trocar este caminho por nada.
-
-Quero evoluir todos os dias neste curso e construir a minha carreira nesta área.
+-  Estudante de Software Development  
+-  Criadora de conteúdo e professora iniciante de Python  e c++
+-  Desenvolvedora full-stack 
+-  Em constante evolução como developer  
+-  Apaixonada por resolver problemas com código  
 
 ---
 
-## ❤️ A minha mentalidade
+##  Tech Stack em evolução
 
-Eu aprendi a:
-
-- Amar cada bug 🐞
-- Crescer com cada erro
-- Persistir mesmo quando parece difícil
-- Ver desafios como oportunidades
-
-Para mim, programar não é só escrever código —  
-é resolver problemas e evoluir constantemente.
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📚 O que estou a fazer aqui
+##  GitHub Stats
 
-Neste GitHub vou partilhar:
-
-- 💻 Aulas de C++ do zero
-- 🚀 Projetos em desenvolvimento
-- 📖 Exercícios e prática diária
-- 🧠 O meu processo de aprendizagem
-
-👉 Estou a criar uma série de aulas chamada:
-**"Learn C++ With Erica"**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericatatiana&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌟 Como podes ajudar
+##  Streak de Código
 
-Se encontrares valor no meu trabalho, podes ajudar de várias formas:
-
-- ⭐ Dar estrelas aos meus repositórios
-- 👀 Acompanhar a minha evolução
-- 📚 Aprender comigo
-- 🤝 Contribuir com ideias e melhorias
-- 💬 Partilhar feedback construtivo
-
-Cada apoio faz diferença nesta jornada 💙
+![GitHub Streak](https://streak-stats.demolab.com?user=ericatatiana&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🚀 Objetivo
+##  Linguagens Mais Usadas
 
-O meu objetivo não é ser perfeita.
-
-É ser melhor do que ontem.
-
-E construir, passo a passo, o meu caminho na tecnologia.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericatatiana&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 💙 Obrigada por passares por aqui
+##  O que estou a construir aqui
+
+-  Aulas de C++ do zero  
+-  Aulas de Python para iniciantes  
+-  Projetos reais de programação  
+-  Exercícios e desafios diários  
+-  Conteúdo educativo para a comunidade  
+
+ Séries em destaque:
+- **Learn C++ With Erica**
+- **Learn Python With Erica** 🐍
+
+---
+
+##  Mentalidade de developer
+
+> “Não é sobre ser perfeita.  
+> É sobre ser consistente.”
+
+ Cada bug é uma lição  
+ Cada erro é progresso  
+ Cada linha de código conta  
+
+---
+
+##  Vamos crescer juntos
+
+Se gostares do meu trabalho:
+
+- ⭐ Dá uma estrela nos repositórios  
+-  Acompanha a minha evolução  
+-  Partilha feedback  
+-  Aprende comigo  
+
+---
+
+## 💙 Obrigada por estares aqui
 
 Se estás a ler isto, já fazes parte da minha jornada.
 
-Vamos crescer juntos 🚀
+🚀 Vamos construir o futuro, uma linha de código de cada vez.
