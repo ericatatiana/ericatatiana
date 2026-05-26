@@ -19,7 +19,7 @@
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Sqlserver](https://img.shields.io/badge/Sqlserver-blue?style=for-the-badge&logo=Sqlserver)
 
 💙 Welcome to my coding journey.
 
