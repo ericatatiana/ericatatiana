@@ -2,12 +2,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ericatatiana&color=blueviolet&style=flat-square)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-# Hi, I`m Erica Tatiana
+
+#  Hi, I`m Erica Tatiana
 
 * Software Development Student
 * Full-stack
 * Mozambique
-
 > “Não é sobre ser perfeita. É sobre ser consistente.”
 
 ##  Tech Stack
