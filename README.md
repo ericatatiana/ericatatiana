@@ -1,7 +1,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ericatatiana&color=blueviolet&style=flat-square)
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 # Hi, I`m Erica Tatiana
 
