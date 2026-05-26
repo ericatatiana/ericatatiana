@@ -1,6 +1,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ericatatiana&color=blueviolet&style=flat-square)
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 # Hi, I`m Erica Tatiana
 
 * Software Development Student
@@ -16,14 +17,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=radical)
-
-## Streack
-https://github-readme-stats.vercel.app/api?username=USERNAME
-
-## Top Lang
-https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 💙 Welcome to my coding journey.
 
