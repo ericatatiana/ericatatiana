@@ -1,8 +1,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ericatatiana&color=blueviolet&style=flat-square)
 
-![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 # Hi, I`m Erica Tatiana
 
 * Software Development Student
@@ -18,4 +16,15 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=radical)
+
+## Streack
+https://github-readme-stats.vercel.app/api?username=USERNAME
+
+## Top Lang
+https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME
+
 💙 Welcome to my coding journey.
+
+![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
