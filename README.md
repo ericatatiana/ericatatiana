@@ -3,6 +3,8 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 #  Hi, I`m Erica Tatiana
 
 * Software Development Student
@@ -25,11 +27,6 @@
 ![Visualg](https://img.shields.io/badge/Visualg-008000?style=for-the-badge&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-![Matrix Code](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-![Coffee Programmer](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 
 💙 Welcome to my coding journey.
 
