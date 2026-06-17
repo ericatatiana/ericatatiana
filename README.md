@@ -17,7 +17,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
 ![Sqlserver](https://img.shields.io/badge/Sqlserver-pink?style=for-the-badge&logo=Sqlserver)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -27,6 +26,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Matrix Code](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![Coffee Programmer](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 
 💙 Welcome to my coding journey.
